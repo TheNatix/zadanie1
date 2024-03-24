@@ -45,6 +45,10 @@ int main() {
 //Grupa 235 A2
 //Sortowanie przez selekcje
 
+//Zalety : mala ilosc danych powinna byc w miare prosto posortwoana i nie ma pustych przebiegow
+
+//Wady : przechodzi przez cala tablica 
+
 //Podaj liczbe elementow : 10
 //Podaj elementy tablicy: 6 8 2 7 11 8 0 3 7 9
 //Tablica po 0 przejsciu petli : 6 8 2 7 11 8 0 3 7 9

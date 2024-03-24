@@ -42,6 +42,9 @@ int main() {
 //Grupa 235 A2
 //Sortowanie babelkowe
 
+//Zalety : prosta implementacja i latwy do zapamietania algorytm i 
+//Wady : wykonuje duza ilosc swapow ktore moga nie miec wplywu tak jak gdyby tablica byla wprowadzona od tylu
+
 //Podaj liczbe elementow : 10
 //Podaj elementy tablicy: 6 8 2 7 11 8 0 3 7 9
 //Tablica po 1 przejsciu petli : 0 8 6 7 11 8 2 3 7 9 i=0 j=1-9 wiec swap zachodzi do momentu az j = 6 czyli

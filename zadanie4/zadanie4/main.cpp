@@ -82,4 +82,13 @@ int main()
 
     return 0;
 }
-//elementy tablicy 5 2 6 8 9 3 4 7 2 6 n = 10
+
+//Natan Kolodziej
+//Grupa 235 A2
+//Sortowanie przez scalanie
+
+//Zalety : rekurencyjny algorytm co przy srednich tablicach daje powiedzialbym zadowalajace wyniki i szybciej sortuje tablice niz poprzednie algorytmy 
+//Wady : mozliwy problem podczas sortowania wiekszej ilosci danych wywolany przez rekurencyjne wywolanie funkcji
+
+//Podaj liczbe elementow : 10
+//Podaj elementy tablicy: 5 2 6 8 9 3 4 7 2 6
